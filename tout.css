@@ -1,0 +1,13 @@
+body {
+    background-color: purple;
+    font: arial;
+    color: white;
+}
+#link {
+    color: white;
+    background-color: purple;
+}
+button {
+    color: black;
+    background-color: white;
+}
